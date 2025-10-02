@@ -20,4 +20,4 @@ The **winner** badge is obtained by legitimately completing the game, entering t
 Information about boss fight and Cart God can be found on [[Cart God]] page.
 
 > [!Info]
-> [[Cart God]]  page is currently Work in progress, Sorry!
+> The [[Cart God]]  page is currently Work in progress, Sorry!
